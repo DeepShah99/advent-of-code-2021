@@ -1,4 +1,11 @@
 """
+* File Name:           Day 1 part one: Sonar Sweep.py
+* Author:              Deep Shah
+* Date:                1st Dec 2022
+
+"""
+
+"""
 Tried to web scrap the input data. But I guess advent of code doesn't authorize HTTP GET requests without session cookie.  
 
 from bs4 import BeautifulSoup

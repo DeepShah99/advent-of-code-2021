@@ -1,3 +1,11 @@
+"""
+* File Name:           Day 2 part two: Dive.py
+* Author:              Deep Shah
+* Date:                1st Dec 2022
+
+"""
+
+
 pos = 0 #horizontal position
 depth = 0
 aim = 0

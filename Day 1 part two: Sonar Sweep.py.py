@@ -1,3 +1,10 @@
+"""
+* File Name:           Day 1 part two: Sonar Sweep.py
+* Author:              Deep Shah
+* Date:                1st Dec 2022
+
+"""
+
 with open("Day 1 raw_data.txt") as file:
     Arr = [line.strip() for line in file.readlines()] 
 
